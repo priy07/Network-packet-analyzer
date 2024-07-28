@@ -11,6 +11,6 @@ The Network Packet Sniffer is a Python script that utilizes the `scapy` library 
 
 ## Installation
 1. **Clone the Repository:**
-   ```bash  git clone https://github.com/priy07/PRODIGY-CS-04.git
-  cd Network-packet-analyzer.py
-  
+   ```bash
+   git clone https://github.com/priy07/PRODIGY-CS-04.git
+   cd Network-packet-analyzer
