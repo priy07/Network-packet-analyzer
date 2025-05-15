@@ -1,4 +1,4 @@
-#PRODIGY-CS-04
+#Network-packet-analyzer
 
 ## Overview
 The Network Packet Sniffer is a Python script that utilizes the `scapy` library to capture and analyze network packets in real-time. It displays information about source and destination IP addresses, protocols (TCP, UDP), and attempts to decode and print payload data for TCP and UDP packets. This tool is designed for educational purposes to learn about network protocols and packet analysis.
@@ -12,5 +12,5 @@ The Network Packet Sniffer is a Python script that utilizes the `scapy` library 
 ## Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/priy07/PRODIGY-CS-04.git
+   git clone https://github.com/priy07/Network-packet-analyzer.git
    cd Network-packet-analyzer
